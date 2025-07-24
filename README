@@ -1,8 +1,8 @@
 # Diabetes Prediction using Machine Learning
 
-This project predicts whether a patient is likely to have diabetes based on medical features using a machine learning model.
+This project uses various machine learning algorithms to predict whether a person is diabetic based on medical diagnostic data.
 
-## 📌 Features Used
+## 👩‍⚕️ Features Used
 - Pregnancies
 - Glucose
 - BloodPressure
@@ -12,17 +12,17 @@ This project predicts whether a patient is likely to have diabetes based on medi
 - DiabetesPedigreeFunction
 - Age
 
-## 🚀 Model Used
+## 🧠 Models Tried
 - Logistic Regression
-- SVM
-- Random Forest (as applicable)
+- Support Vector Machine
+- Random Forest
 
-## 🧪 Dataset
-Dataset: [PIMA Indian Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+## 📊 Dataset
+Dataset used: [PIMA Indian Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/diabetes-prediction-ml.git
-cd diabetes-prediction-ml
+git clone https://github.com/Khushidk23/Diabetes-Prediction-ML.git
+cd Diabetes-Prediction-ML
 pip install -r requirements.txt
